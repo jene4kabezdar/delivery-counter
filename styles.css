@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+.form {
+    width: 400px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.form-item {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.error {
+    color: red;
+}
